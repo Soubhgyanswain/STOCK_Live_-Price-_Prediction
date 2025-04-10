@@ -13,6 +13,7 @@ This project aims to predict stock prices using machine learning models trained 
 ![image](https://github.com/user-attachments/assets/3e35e20e-902f-4114-94d7-092f93bb4277)
 ![image](https://github.com/user-attachments/assets/c0ff3e3f-8a09-4133-a349-319b5f0fc7fb)
 ![image](https://github.com/user-attachments/assets/129774d8-d7f6-4936-8ab9-a2f89e48c07b)
+
 https://github.com/user-attachments/assets/7880d9fc-b893-4aba-a7b7-f43f7ff44e60
 
 
