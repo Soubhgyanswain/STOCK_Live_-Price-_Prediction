@@ -10,11 +10,10 @@ This project aims to predict stock prices using machine learning models trained 
 
 ## 📸 Results:
 
-![image](https://github.com/user-attachments/assets/2b7d59bf-934b-402c-8cb1-f6f5a5d85fac)
-![image](https://github.com/user-attachments/assets/41a33070-e8e2-47b2-a10a-81bbac14069a)
-![image](https://github.com/user-attachments/assets/63beb568-0e2d-4b1f-af3f-908b8d5e1df5)
-![image](https://github.com/user-attachments/assets/8903037c-c71b-4624-ba2b-5aa99a8acfe8)
-![image](https://github.com/user-attachments/assets/49c5a548-e6ab-42aa-9b31-31cf2842bf2c)
+![image](https://github.com/user-attachments/assets/3e35e20e-902f-4114-94d7-092f93bb4277)
+![image](https://github.com/user-attachments/assets/c0ff3e3f-8a09-4133-a349-319b5f0fc7fb)
+![image](https://github.com/user-attachments/assets/129774d8-d7f6-4936-8ab9-a2f89e48c07b)
+
 
 
 ## 🛠️ INSTALLATION & SETUP
